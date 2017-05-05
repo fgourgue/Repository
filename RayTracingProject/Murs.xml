@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<walls>
+	<wall type = "horizontal">
+		<xstart>10</xstart>
+		<xend>400</xend>
+		<y>10</y>
+	</wall>
+	<wall type = "vertical">
+		<ystart>10</ystart>
+		<yend>400</yend>
+		<x>10</x>
+	</wall>
+	<wall type = "horizontal">
+		<xstart>10</xstart>
+		<xend>400</xend>
+		<y>400</y>
+	</wall>
+	<wall type = "vertical">
+		<ystart>10</ystart>
+		<yend>400</yend>
+		<x>400</x>
+	</wall>
+</walls>
